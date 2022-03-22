@@ -1,0 +1,15 @@
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\bin\Release\FractalsProject.exe.config
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\bin\Release\FractalsProject.exe
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\bin\Release\FractalsProject.pdb
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.Form1.resources
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.Properties.Resources.resources
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.TreesForm.resources
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.csproj.GenerateResource.cache
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.exe
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.pdb
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.KantorSetForm.resources
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.CochCurveForm.resources
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.TriangleForm.resources
+C:\Users\Влад\source\repos\FractalsProject\FractalsProject\obj\Release\FractalsProject.CarpetForm.resources
